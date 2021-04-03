@@ -256,15 +256,3 @@ margin: 2% 2%;
   margin : 15px 10px 15px 0;
   color:  #ff2b4a;
 }
-
-
-/*_-_-_-_-_-_-_-_-_-_-RESPONSE-_-_-_-_-_-_-_-_-_-*/
-
-@media (max-width=1028px) {
-
-  .w-boxes {
-
-    padding: 0%;
-
-  }
-}
